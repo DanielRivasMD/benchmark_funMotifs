@@ -20,7 +20,7 @@ My way:
 
 ## data files
 Data files are specified in conf/main_parameters.conf (small data set) or conf/main_parameters_hg19.conf (bigger data
-set)\
+set). Additionally there is now the fail conf/main_parameters_chr10_liver.conf that has the data for chromosome 10 and liver only.\
 The most recent downloads from the databases are the data_tracks specified in conf/main_parameters_hg19.conf
 
 ## further notes
